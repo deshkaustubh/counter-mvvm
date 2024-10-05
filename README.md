@@ -5,4 +5,4 @@
 - Decrement 
 
 
-[Apk Download Link](https://github.com/kaustubhsuryakantdeshpande/counter-mvvm/blob/master/CounterMVVM.apk)
+[Apk Download Link](https://github.com/kaustubhsuryakantdeshpande/counter-mvvm/raw/refs/heads/master/CounterMVVM.apk)
